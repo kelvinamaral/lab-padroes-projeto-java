@@ -8,3 +8,8 @@ Repositório com as atividades de implementações dos padrões de projeto explo
 - strategy
 - Facade
 - Chain Of Responsibility
+
+
+## Adicionado:
+Chain Of Responsibility:
+Sistema para aprovar despesas em uma empresa, a cadeia de aprovação conta com três níveis: funcionário, gerente e diretor.
