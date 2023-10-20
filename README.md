@@ -7,3 +7,4 @@ Repositório com as atividades de implementações dos padrões de projeto explo
 - Singleton
 - strategy
 - Facade
+- Chain Of Responsibility
